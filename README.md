@@ -1,6 +1,6 @@
 # posist
 This repository is for posist to check my code for round 2.
-<b> Requirement</b>
+#<b> Requirement</b>
 I am using  Java but block chain can be done in any  language. 
   I’ll be using Eclipse but you can use any new fancy text editor .
 
@@ -19,4 +19,4 @@ Eclipse ( or another IDE/Text Editor ).
 4. Can be check to see if data in it is valid and unchanged.
 
 
-**  You will need to import GSON ****
+<b> You will need to import GSON </b>
