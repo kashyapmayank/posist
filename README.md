@@ -1,6 +1,6 @@
 # posist
 This repository is for posist to check my code for round 2.
-#<b> Requirement</b>
+# Requirement
 I am using  Java but block chain can be done in any  language. 
   I’ll be using Eclipse but you can use any new fancy text editor .
 
