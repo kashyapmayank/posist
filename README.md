@@ -1,4 +1,4 @@
-# posist
+﻿# posist
 This repository is for posist to check my code for round 2.
 # Requirement
 I am using  Java but block chain can be done in any  language. 
@@ -20,3 +20,5 @@ Eclipse ( or another IDE/Text Editor ).
 
 
 <b> You will need to import GSON </b>
+
+"  Gson is a Java library that can be used to convert Java Objects into their JSON representation. It can also be used to convert a JSON string to an equivalent Java object. "
